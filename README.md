@@ -17,7 +17,6 @@ I like taking messy, real datasets and working out what's actually going on in t
 - Data Cleaning & Exploratory Data Analysis
 - Data Modelling & Data base Design
 - Microsoft Excel
-- Google Looker Studio
 
 I'm actively expanding beyond my SQL/database foundation into:
 - Deeper **data modelling and database design** through ongoing project work
@@ -29,7 +28,7 @@ I'm actively expanding beyond my SQL/database foundation into:
 | Category | Skills |
 |---|---|
 | SQL & Databases | SQL, PostgreSQL, psql, pgAdmin, ERD Design, Relational Database Design, Primary/Foreign Keys, CTEs, Window Functions (`ROW_NUMBER()`, `PARTITION BY`), Aggregations |
-| Data Analytics | Microsoft Excel, Data Cleaning, Data Validation, Exploratory Data Analysis (EDA), Google Looker Studio |
+| Data Analytics | Microsoft Excel, Data Cleaning, Data Validation, Exploratory Data Analysis (EDA) |
 | Business | Business Intelligence, Business Analysis, Problem Solving |
 
 ## 📂 Featured Projects

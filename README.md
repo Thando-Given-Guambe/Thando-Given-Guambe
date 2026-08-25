@@ -6,7 +6,7 @@ I'm an Information Technology in Business Systems student building practical ski
 
 I like taking messy, real datasets and working out what's actually going on in them. That involves cleaning them up, modelling the relationships properly, exploring patterns and turning them into something a business could use to make a decision.
 <p align="center">
-📍 Johannesburg, South Africa · ✉️ given.t.guambe@gmail.com · 🔗 www.linkedin.com/in/thandoguambe/
+📍 Johannesburg, South Africa · ✉️ given.t.guambe@gmail.com  · 🔗 www.linkedin.com/in/thandoguambe/
   
 </p>
 

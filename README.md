@@ -58,6 +58,13 @@ I'm actively expanding beyond my SQL/database foundation into:
 - Designed a normalised relational schema — Customer, Orders, Product, and Category entities — with primary/foreign key relationships.
 - Cleaned and assessed a retail sales dataset, identifying missing values and inconsistencies in transactional metrics.
 
+**Spotify Streaming Performance Dashboard**
+`Power BI` & `Excel`
+
+- Cleaned and transformed a 500-entry Spotify streaming dataset using Excel and developed an interactive Power BI dashboard analysing 8.4T+ streams across genres, artists and performance types.
+- Used data visualisations to compare Solo, Lead, Collaborative and Feature streams and identify differences in streaming performance across genres and artist types.
+- Identified key patterns including Hip-Hop and Pop as the highest-streamed genres and substantial differences in streaming volume between Solo artists and Groups.
+
 **Layoffs Data Cleaning**
 
 `PostgreSQL` `SQL`

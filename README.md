@@ -17,6 +17,7 @@ I like taking messy, real datasets and working out what's actually going on in t
 - Data Cleaning & Exploratory Data Analysis
 - Data Modelling & Data base Design
 - Microsoft Excel
+- Power BI
 
 I'm actively expanding beyond my SQL/database foundation into:
 - Deeper **data modelling and database design** through ongoing project work

@@ -31,15 +31,9 @@ I'm actively expanding beyond my SQL/database foundation into:
 | SQL & Databases | SQL, PostgreSQL, psql, pgAdmin, ERD Design, Relational Database Design, Primary/Foreign Keys, CTEs, Window Functions (`ROW_NUMBER()`, `PARTITION BY`), Aggregations |
 | Data Analytics | Microsoft Excel, Data Cleaning, Data Validation, Exploratory Data Analysis (EDA) |
 | Business | Business Intelligence, Business Analysis, Problem Solving |
+| Data Visualization | Power BI |
 
 ## 📂 Featured Projects
-
-**Retail Sales Data Validation & Database Design**
-
-`Microsoft Excel` `Database Design` `ERD` `Data Validation`
-
-- Designed a normalised relational schema — Customer, Orders, Product, and Category entities — with primary/foreign key relationships.
-- Cleaned and assessed a retail sales dataset, identifying missing values and inconsistencies in transactional metrics.
 
 **Cafe Sales Data Cleaning**
 
@@ -49,12 +43,6 @@ I'm actively expanding beyond my SQL/database foundation into:
 - Recovered recoverable missing values using business logic. 
 - Used `ROW_NUMBER()`, `GROUP BY`, `COUNT()`, `UPDATE`, `ALTER TABLE`, `TRIM()`, and type casting.
 
-**Layoffs Data Cleaning**
-
-`PostgreSQL` `SQL`
-
-- Built a staging workflow to preserve the original dataset, then identified and removed duplicates using CTEs, `ROW_NUMBER()`, and `PARTITION BY` in the absence of a unique identifier. 
-- Standardised inconsistent text data and used self-joins to recover missing information where the business context supported it.
 
 **Video Game Sales — Exploratory Data Analysis**
 
@@ -62,6 +50,21 @@ I'm actively expanding beyond my SQL/database foundation into:
 
 - Cleaned and transformed a video game sales dataset, then explored global and regional sales trends across games, years, genres, platforms, and publishers using aggregations, CTEs, `GROUP BY`, `SUM()`, `AVG()`, and ranking techniques.
 - Documented business questions, cleaning steps, and insights.
+
+**Retail Sales Data Validation & Database Design**
+
+`Microsoft Excel` `Database Design` `ERD` `Data Validation`
+
+- Designed a normalised relational schema — Customer, Orders, Product, and Category entities — with primary/foreign key relationships.
+- Cleaned and assessed a retail sales dataset, identifying missing values and inconsistencies in transactional metrics.
+
+**Layoffs Data Cleaning**
+
+`PostgreSQL` `SQL`
+
+- Built a staging workflow to preserve the original dataset, then identified and removed duplicates using CTEs, `ROW_NUMBER()`, and `PARTITION BY` in the absence of a unique identifier. 
+- Standardised inconsistent text data and used self-joins to recover missing information where the business context supported it.
+
 
 ## 🚧🔨 Currently in Development
 
@@ -87,12 +90,6 @@ These are projects I plan to undertake to further deepen, strengthen, and expand
 `SQL` | `Data Cleaning` & `Exploratory Data Analysis`
 
 - A SQL-based project focused on cleaning and exploring the Netflix dataset, using SQL to uncover trends, patterns, and insights through exploratory and business-oriented analysis.
-
-🎵 Spotify Analytics Dashboard
-
-`Excel` & `Power BI` | `Data Cleaning` & `Data Visualization`
-
-- A data visualization project focused on cleaning and analyzing Spotify data in Excel, followed by the development of an interactive Power BI dashboard to communicate key findings and trends.
 
 🛒 Sales Database & Analytics Project
 

@@ -87,7 +87,7 @@ These are projects I plan to undertake to further deepen, strengthen, and expand
 
 🎬 Netflix Data Analysis
 
-`SQL` | `Data Cleaning` & `Exploratory Data Analysis`
+`Excel` & `SQL` | `Data Cleaning` & `Exploratory Data Analysis`
 
 - A SQL-based project focused on cleaning and exploring the Netflix dataset, using SQL to uncover trends, patterns, and insights through exploratory and business-oriented analysis.
 

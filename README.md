@@ -81,7 +81,7 @@ Current focus:
 
 Status: 🟡 In Progress. Currently paused while I strengthen my knowledge in database design. The project will be revisited and expanded once I complete my database design coursework.
 
-### 🚀 Upcoming Projects
+## 🚀 Upcoming Projects
 
 These are projects I plan to undertake to further deepen, strengthen, and expand my current skillset in SQL, Excel, Power BI, Google Looker Studio, and Database Design.
 

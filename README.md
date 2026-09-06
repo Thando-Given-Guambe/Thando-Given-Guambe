@@ -35,15 +35,6 @@ I'm actively expanding beyond my SQL/database foundation into:
 
 ## 📂 Featured Projects
 
-**Cafe Sales Data Cleaning**
-
-`PostgreSQL` `SQL`
-
-- Cleaned and standardised a 10,000-row cafe sales dataset - duplicates, whitespace, invalid values, missing data, and inconsistent data types.
-- Recovered recoverable missing values using business logic. 
-- Used `ROW_NUMBER()`, `GROUP BY`, `COUNT()`, `UPDATE`, `ALTER TABLE`, `TRIM()`, and type casting.
-
-
 **Video Game Sales — Exploratory Data Analysis**
 
 `PostgreSQL` `SQL` `pgAdmin`
@@ -64,6 +55,14 @@ I'm actively expanding beyond my SQL/database foundation into:
 - Cleaned and transformed a 500-entry Spotify streaming dataset using Excel and developed an interactive Power BI dashboard analysing 8.4T+ streams across genres, artists and performance types.
 - Used data visualisations to compare Solo, Lead, Collaborative and Feature streams and identify differences in streaming performance across genres and artist types.
 - Identified key patterns including Hip-Hop and Pop as the highest-streamed genres and substantial differences in streaming volume between Solo artists and Groups.
+
+**Cafe Sales Data Cleaning**
+
+`PostgreSQL` `SQL`
+
+- Cleaned and standardised a 10,000-row cafe sales dataset - duplicates, whitespace, invalid values, missing data, and inconsistent data types.
+- Recovered recoverable missing values using business logic. 
+- Used `ROW_NUMBER()`, `GROUP BY`, `COUNT()`, `UPDATE`, `ALTER TABLE`, `TRIM()`, and type casting.
 
 **Layoffs Data Cleaning**
 

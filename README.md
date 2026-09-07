@@ -71,38 +71,6 @@ I'm actively expanding beyond my SQL/database foundation into:
 - Built a staging workflow to preserve the original dataset, then identified and removed duplicates using CTEs, `ROW_NUMBER()`, and `PARTITION BY` in the absence of a unique identifier. 
 - Standardised inconsistent text data and used self-joins to recover missing information where the business context supported it.
 
-
-## 🚧🔨 Currently in Development
-
-**⚽ FIFA World Cup Player Performance | EDA & SQL**
-
-Exploratory Data Analysis project using a FIFA World Cup dataset to investigate match and player performance, with a focus on SQL-based data exploration, cleaning, and analysis.
-
-Current focus:
-- Data exploration and structure assessment
-- Data cleaning and validation
-- SQL-based EDA
-- Identifying relationships between matches, teams, and player performance
-- Database design and data modelling
-
-Status: 🟡 In Progress. Currently paused while I strengthen my knowledge in database design. The project will be revisited and expanded once I complete my database design coursework.
-
-## 🚀 Upcoming Projects
-
-These are projects I plan to undertake to further deepen, strengthen, and expand my current skillset in SQL, Excel, Power BI, Google Looker Studio, and Database Design.
-
-🎬 Netflix Data Analysis
-
-`Excel` & `SQL` | `Data Cleaning` & `Exploratory Data Analysis`
-
-- A SQL-based project focused on cleaning and exploring the Netflix dataset, using SQL to uncover trends, patterns, and insights through exploratory and business-oriented analysis.
-
-🛒 Sales Database & Analytics Project
-
-`Excel` & `PostgreSQL` | `Database Design`, `Data Cleaning`, `Data Analysis` & `Data Visualization`
-
-- An end-to-end analytics project involving relational database design and ERD development, data cleaning and transformation in Excel, SQL-based analysis, and the creation of an interactive dashboard using Power BI or Google Looker Studio.
-
 ## 🎯 Career Direction
 I am building toward a career in **Data Analytics and Business Intelligence**, while developing the SQL, database, and data-engineering foundations that will support my longer-term goal of becoming an **Analytics Engineer**.
 

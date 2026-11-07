@@ -1,4 +1,4 @@
-<img src="image/GitHub Banner.jpg"></img>
+<img src="image/GitHub-Banner.jpg"></img>
 
 # I'm Thando `Given` Guambe 👋
 
